@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+*.compileinfo
+project_*.precompilecache
+*.project.~u
+_CompileInfo/
+_Libraries/
+_Boot/
