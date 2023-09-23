@@ -400,6 +400,7 @@ FodyWeavers.xsd
 
 *.compileinfo
 project_*.precompilecache
+*.precompilecache
 *.project.~u
 _CompileInfo/
 _Libraries/
